@@ -1,0 +1,1 @@
+print("funciona dimensions_maps.lua")

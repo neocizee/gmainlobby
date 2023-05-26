@@ -1,0 +1,1 @@
+print("funciona client muerte.lua")
